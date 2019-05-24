@@ -71,7 +71,7 @@ snippets:
     file: edl.xml
   - name: tags
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/tag
-    file: tag.xml 
+    file: tags.xml 
   - name: rules
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/rulebase/security/rules
     file: rules.xml       
